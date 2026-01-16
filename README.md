@@ -1,7 +1,9 @@
 # Meteor Madness
 # A pygame like Asteroids
 
-My first PyGame experiment! Dedicated to my twin sons, who are 8 years old.
+My first PyGame experiment! Dedicated to my twin sons, who were 8 years old when I wrote this.
+
+![Meteor Madness](https://github.com/nathancarlton/pygames/blob/main/meteor_madness_hero.png)
 
 The screen opens at 1500 wide and 1000 tall ... change these settings in line 10.
 
